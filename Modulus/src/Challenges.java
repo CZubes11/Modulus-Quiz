@@ -5,6 +5,7 @@ public class Challenges
 		public static void main(String[] args)
 			{
 				run1();
+				System.out.println("Hello");
 				System.out.println();
 				run2();
 				System.out.println();
